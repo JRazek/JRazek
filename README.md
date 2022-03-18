@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JRazek, an 20 yr old PJAIT student from Warsaw.
+- 👋 Hi, I’m @JRazek, a 20 yr old PJAIT student from Warsaw.
 - I am interested in algorithms, data structures and AI.
 - Currently working as a C++ programmer in Samsung on a <a href="https://github.com/flutter-tizen/">flutter-tizen</a> project.
 <!---
