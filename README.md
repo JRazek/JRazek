@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JRazek, a 20 yr old PJAIT student from Warsaw.
+- 👋 Hi, I’m @JRazek, 20 yr old Physics student from Warsaw.
 - I am interested in algorithms, data structures and AI.
 
 Btw. I use vim. 
