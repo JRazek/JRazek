@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JRazek, 20 yr old Physics student from Warsaw.
 - I am interested in algorithms, data structures and AI.
 
-I use vim. btw.
+I use vim, btw.
 
 <!---
 JRazek/JRazek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
