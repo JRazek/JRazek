@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @JRazek, 20 yr old Physics student from Warsaw.
-- I am interested in algorithms, data structures and AI.
-
 I use vim, btw.
 
 <!---
